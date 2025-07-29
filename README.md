@@ -1,3 +1,8 @@
+👨‍💻 Author
+Ratnasai Peddireddy
+Full Stack Developer
+Portfolio Website | LinkedIn | GitHub
+
 # 🏦 BOB Bank CLI System
 
 A simple command-line banking system built in Python using SQLite for data persistence. This project simulates core banking functionalities like account creation, PIN generation, balance check, deposit, withdrawal, and account-to-account transfer.
