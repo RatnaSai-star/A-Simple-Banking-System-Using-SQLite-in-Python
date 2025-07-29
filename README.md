@@ -1,7 +1,6 @@
-👨‍💻 Author
-Ratnasai Peddireddy
+👨‍💻 Author <br>
+Ratnasai Peddireddy <br>
 Full Stack Developer
-Portfolio Website | LinkedIn | GitHub
 
 # 🏦 BOB Bank CLI System
 
